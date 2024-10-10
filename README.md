@@ -15,4 +15,16 @@ This blog was created by using Github Page, here i will record and reflect on my
  Process made:
 - how to create a repository in Github
 - intro to Markdown language
-- 
+
+New stuffs done in class:
+
+new concepts learnt:
+- Binary system
+- Hexadecimal system
+- Two's complement
+- integers, strings and representation of data in computational languages
+- ASCCI, Unicode
+- color depth (RGB)
+
+
+
